@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "obrazovanje_odraslih",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "naziv": "BIROTEHNIKA - Centar za dopisno obrazovanje", "labela": "BIROTEHNIKA - Centar za dopisno obrazovanje", "adresa": "Gundulićeva ulica 24", "grad_cetvrt": "DONJI GRAD", "telefon": "01 485 5525", "fax": "01 485 5522", "email": "tanistvo@birotehnika.hr", "web": "www.birotehnika.hr", "vr_odg_us": "OBRAZOVANJE ODRASLIH", "vr_ob_pr": "SREDNJA ŠKOLA", "tip_ob_pr": "OBRAZOVANJE ODRASLIH", "nadlezan": "Gradski ured za obrazovanje", "izvor": "Gradski ured za obrazovanje", "izradio": "Gradski ured za strategijsko planiranje i razvoj Grada" }, "geometry": { "type": "Point", "coordinates": [ 15.97203449662301, 45.809768361340822 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "naziv": "Pučko otvoreno učilište Zagreb", "labela": "Pučko otvoreno učilište Zagreb", "adresa": "Ulica grada Vukovara 68", "grad_cetvrt": "TRNJE", "telefon": "01 600 3000", "fax": "01 600 3002", "email": "tajnistvo@pou.hr", "web": "www.pou.hr", "vr_odg_us": "OTVORENO UČILIŠTE", "vr_ob_pr": "OBRAZOVANJE ODRASLIH", "tip_ob_pr": "OBRAZOVANJE ODRASLIH", "nadlezan": "Gradski ured za obrazovanje", "izvor": "Gradski ured za obrazovanje", "izradio": "Gradski ured za strategijsko planiranje i razvoj Grada" }, "geometry": { "type": "Point", "coordinates": [ 15.971301425149445, 45.79931608661046 ] } }
+]
+}
